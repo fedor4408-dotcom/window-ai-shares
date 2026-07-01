@@ -1,0 +1,31 @@
+{
+  "id": "screenshot-2",
+  "type": "linked_to_file",
+  "linked_file_id": "file-1",
+  "linked_file_name": "Исх. 161 КД-32_06 от 23.06.2026.pdf",
+  "source_image": "image.png",
+  "image_size": {
+    "width": 1497,
+    "height": 618
+  },
+  "note": "",
+  "annotations": [
+    {
+      "id": "annotation-1",
+      "comment": "важно об этом сообщить",
+      "coordinates_px": {
+        "x": 100,
+        "y": 54,
+        "w": 1339,
+        "h": 404
+      },
+      "coordinates_normalized": {
+        "x": 0.0668,
+        "y": 0.087379,
+        "w": 0.894456,
+        "h": 0.653722
+      },
+      "crop": "crops/annotation-1.png"
+    }
+  ]
+}
