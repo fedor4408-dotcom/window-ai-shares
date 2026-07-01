@@ -1,0 +1,29 @@
+{
+  "id": "screenshot-3",
+  "type": "standalone_context",
+  "source_image": "image.png",
+  "image_size": {
+    "width": 1562,
+    "height": 787
+  },
+  "note": "",
+  "annotations": [
+    {
+      "id": "annotation-1",
+      "comment": "контекст по нему ответным письмом отправляем игорю ответ с ценами на шкафы с учетом хуавей",
+      "coordinates_px": {
+        "x": 6,
+        "y": 8,
+        "w": 1538,
+        "h": 771
+      },
+      "coordinates_normalized": {
+        "x": 0.003841,
+        "y": 0.010165,
+        "w": 0.984635,
+        "h": 0.97967
+      },
+      "crop": "crops/annotation-1.png"
+    }
+  ]
+}

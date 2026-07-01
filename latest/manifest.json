@@ -1,6 +1,10 @@
 {
   "package_version": "0.2",
-  "created_at": "2026-07-01T14:11:25.842Z",
+  "created_at": "2026-07-01T14:35:48.406Z",
+  "ai_index": {
+    "path": "ai_index.md",
+    "purpose": "Fast entry point with raw links and recommended reading order for AI assistants."
+  },
   "task": {
     "title": "",
     "path_json": "task/task.json",
@@ -9,11 +13,11 @@
   "source_files": [
     {
       "id": "file-1",
-      "original_name": "Исх. 161 КД-32_06 от 23.06.2026.pdf",
-      "kind": "pdf",
-      "mime_type": "application/pdf",
-      "size_bytes": 3513437,
-      "path": "files/file-1/original/.-161-32_06-23.06.2026.pdf",
+      "original_name": "Заказ клиента (GIT) № 4021 от 30.06.2026.xlsx",
+      "kind": "excel",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "size_bytes": 310914,
+      "path": "files/file-1/original/GIT-No-4021-30.06.2026.xlsx",
       "metadata_path": "files/file-1/metadata.json"
     }
   ],
@@ -23,15 +27,21 @@
       "path": "linked-screenshots/screenshot-1/image.png",
       "metadata_path": "linked-screenshots/screenshot-1/metadata.json",
       "linked_file_id": "file-1",
-      "linked_file_name": "Исх. 161 КД-32_06 от 23.06.2026.pdf"
+      "linked_file_name": "Заказ клиента (GIT) № 4021 от 30.06.2026.xlsx"
     },
     {
       "id": "screenshot-2",
       "path": "linked-screenshots/screenshot-2/image.png",
       "metadata_path": "linked-screenshots/screenshot-2/metadata.json",
       "linked_file_id": "file-1",
-      "linked_file_name": "Исх. 161 КД-32_06 от 23.06.2026.pdf"
+      "linked_file_name": "Заказ клиента (GIT) № 4021 от 30.06.2026.xlsx"
     }
   ],
-  "standalone_screenshots": []
+  "standalone_screenshots": [
+    {
+      "id": "screenshot-3",
+      "path": "standalone-screenshots/screenshot-3/image.png",
+      "metadata_path": "standalone-screenshots/screenshot-3/metadata.json"
+    }
+  ]
 }
