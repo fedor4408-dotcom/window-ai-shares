@@ -1,8 +1,8 @@
 {
   "task_title": "",
-  "task_prompt": "дать итоговые цены на шкафы в чат с учетом хуавей",
+  "task_prompt": "ответить на основании анализа документа",
   "expected_output_format": "",
   "additional_constraints": "",
-  "created_at": "2026-07-01T14:35:48.406Z",
+  "created_at": "2026-07-01T14:56:34.704Z",
   "package_version": "0.2"
 }

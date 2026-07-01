@@ -6,7 +6,7 @@
 
 **Название:** Задача без названия
 
-**Инструкция:** дать итоговые цены на шкафы в чат с учетом хуавей
+**Инструкция:** ответить на основании анализа документа
 
 **Ожидаемый формат ответа:** Не указан.
 
@@ -25,23 +25,21 @@
 
 | # | Скриншот | Комментарий пользователя | Crop | Полный скриншот | Metadata | Координаты |
 |---|---|---|---|---|---|---|
-| 1 | screenshot-1 | найти цены в интернете | [crop](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/crops/annotation-1.png) | [source image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/metadata.json) | x=12, y=642, w=700, h=135 |
-| 2 | screenshot-2 | добавить хуавей к каждому шкафу | [crop](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/crops/annotation-1.png) | [source image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/metadata.json) | x=16, y=126, w=984, h=600 |
-| 3 | screenshot-3 | контекст по нему ответным письмом отправляем игорю ответ с ценами на шкафы с учетом хуавей | [crop](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/standalone-screenshots/screenshot-3/crops/annotation-1.png) | [source image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/standalone-screenshots/screenshot-3/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/standalone-screenshots/screenshot-3/metadata.json) | x=6, y=8, w=1538, h=771 |
+| 1 | screenshot-1 | это учесть в ответе | [crop](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/crops/annotation-1.png) | [source image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/metadata.json) | x=51, y=45, w=1345, h=212 |
+| 2 | screenshot-2 | сюда будем отечать | [crop](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/crops/annotation-1.png) | [source image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/metadata.json) | x=103, y=63, w=762, h=149 |
 
 ## Исходные файлы
 
 | ID | Тип | Имя | Файл | Metadata | Связанные скриншоты |
 |---|---|---|---|---|---|
-| file-1 | excel | Заказ клиента (GIT) № 4021 от 30.06.2026.xlsx | [original](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/files/file-1/original/GIT-No-4021-30.06.2026.xlsx) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/files/file-1/metadata.json) | screenshot-1, screenshot-2 |
+| file-1 | pdf | Исх. 161 КД-32_06 от 23.06.2026.pdf | [original](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/files/file-1/original/.-161-32_06-23.06.2026.pdf) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/files/file-1/metadata.json) | screenshot-1, screenshot-2 |
 
 ## Скриншоты
 
 | ID | Тип связи | Имя | Размер | Изображение | Metadata | Связанный файл | Аннотаций |
 |---|---|---|---|---|---|---|---|
-| screenshot-1 | linked_to_file | image.png | 1553x871 | [image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/metadata.json) | Заказ клиента (GIT) № 4021 от 30.06.2026.xlsx | 1 |
-| screenshot-2 | linked_to_file | image.png | 1566x825 | [image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/metadata.json) | Заказ клиента (GIT) № 4021 от 30.06.2026.xlsx | 1 |
-| screenshot-3 | standalone_context | image.png | 1562x787 | [image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/standalone-screenshots/screenshot-3/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/standalone-screenshots/screenshot-3/metadata.json) | нет | 1 |
+| screenshot-1 | linked_to_file | image.png | 1456x452 | [image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-1/metadata.json) | Исх. 161 КД-32_06 от 23.06.2026.pdf | 1 |
+| screenshot-2 | linked_to_file | image.png | 900x274 | [image](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/image.png) | [metadata](https://raw.githubusercontent.com/fedor4408-dotcom/window-ai-shares/main/latest/linked-screenshots/screenshot-2/metadata.json) | Исх. 161 КД-32_06 от 23.06.2026.pdf | 1 |
 
 ## Служебные файлы
 
@@ -52,8 +50,8 @@
 ## Сводка пакета
 
 - Версия пакета: 0.2
-- Создан: 2026-07-01T14:35:48.406Z
+- Создан: 2026-07-01T14:56:34.704Z
 - Исходных файлов: 1
 - Связанных скриншотов: 2
-- Самостоятельных скриншотов: 1
-- Аннотаций: 3
+- Самостоятельных скриншотов: 0
+- Аннотаций: 2
